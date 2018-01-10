@@ -1,0 +1,15 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armstlink2.dll" 
+
+"F:\work\gpio_test\EWARM\gpio_test\Exe\gpio_test.out" 
+
+--plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
